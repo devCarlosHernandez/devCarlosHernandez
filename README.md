@@ -2,7 +2,7 @@
 
 Soy un Desarrollador FullStack Jr con experiencia en Laravel, Spring Boot, Vue y MySQL.
 
-- 🔭 Actualmente trabajando en un sistema de asistencia escolar con Laravel + QR
+- 🔭 Actualmente trabajando en un sistema de asistencia escolar con Laravel + vue + Laravel Nova 3 + QR
 - 🌱 Aprendiendo AWS, Docker y arquitectura serverless
 - 👯 Me interesa colaborar en proyectos de impacto social y educación
 - 💬 Pregúntame sobre desarrollo web, Laravel, Vue o Spring Boot
