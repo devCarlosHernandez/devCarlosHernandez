@@ -1,6 +1,6 @@
 # 👋 Hola, soy Carlos Hernández Cruz
 
-Soy un Desarrollador FullStack Jr con experiencia en PHP, JAVA - framework Laravel, Spring Boot, Vue y MySQL.
+Soy un Desarrollador FullStack Jr con experiencia en Laravel, Spring Boot, Vue y MySQL.
 
 - 🔭 Actualmente trabajando en un sistema de asistencia escolar con Laravel + vue + Laravel Nova 3 + QR
 - 🌱 Aprendiendo AWS, Docker y arquitectura serverless
