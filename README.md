@@ -4,7 +4,7 @@ Soy un Desarrollador FullStack Jr con experiencia en Laravel, Spring Boot, Vue y
 
 - 🔭 Actualmente trabajando en un sistema de asistencia escolar con Laravel + vue + Laravel Nova 3 + QR
 - 🌱 Aprendiendo AWS, Docker y arquitectura serverless
-- 👯 Me interesa colaborar en proyectos de impacto social y educación
+- 👯 Me interesa colaborar en proyectos de alto impacto.
 - 💬 Pregúntame sobre desarrollo web, Laravel, Vue o Spring Boot
 - 📫 Contáctame: juan.carlos.jchc8@gmail.com
 - ⚡ Fun fact: También tengo experiencia en soporte técnico y redes
