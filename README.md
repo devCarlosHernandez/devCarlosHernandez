@@ -1,116 +1,175 @@
-# 👋 Hola, soy Carlos Hernández Cruz
+<div align="center">
 
-💻 Desarrollador FullStack enfocado en construir sistemas escalables y soluciones reales para negocio.
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:34d399&height=200&section=header&text=Carlos%20Hernández%20Cruz&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20·%20Systems%20Builder&descSize=16&descAlignY=58&descColor=cbd5e1&animation=fadeIn" width="100%"/>
 
----
+<!-- TYPING EFFECT -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Construyendo+software+que+escala+🚀;Backend+robusto+·+Arquitecturas+distribuidas+⚙️;Laravel+·+Spring+Boot+·+Vue.js+·+AWS+☁️)](https://git.io/typing-svg)
 
-## 🚀 Sobre mí
+<br/>
 
-Soy desarrollador con experiencia en backend y frontend, trabajando principalmente con **Laravel, Spring Boot y Vue.js**.  
-Actualmente estoy evolucionando hacia arquitecturas más robustas usando **AWS, Docker y sistemas distribuidos**.
+<!-- BADGES DE ESTADO -->
+![Status](https://img.shields.io/badge/🟢_Status-Open_to_projects-22c55e?style=for-the-badge&labelColor=0f172a)
+![Location](https://img.shields.io/badge/📍_Location-México-0ea5e9?style=for-the-badge&labelColor=0f172a)
+![Focus](https://img.shields.io/badge/🎯_Focus-Sistemas_Distribuidos-6366f1?style=for-the-badge&labelColor=0f172a)
 
-Me interesa construir software que no solo funcione, sino que sea **escalable, mantenible y listo para producción**.
-
----
-
-## 🔥 En qué estoy trabajando
-
-- 🧾 Sistema **POS para restaurantes** (ventas, inventario, roles, tiempo real)
-- 🎓 Sistema de **asistencia escolar con QR**
-- ⚙️ Arquitectura distribuida para procesamiento de logs y detección de eventos:
-  - Backend (Node.js / Laravel) → Logs
-  - Cola de mensajes (SQS / Queue)
-  - Consumer en **FastAPI (Python)** para procesamiento
-- 🌐 Integración y despliegue:
-  - Frontend en **Vercel**
-  - Backend en **Railway / AWS**
+</div>
 
 ---
 
-## 🧠 Actualmente aprendiendo
+## 👋 Hola, soy Carlos
 
-- ☁️ AWS (SQS, Lambda, arquitectura serverless)
-- 🐳 Docker y entornos reproducibles
-- 🧩 Arquitectura hexagonal y sistemas desacoplados
-- 🔄 Procesamiento asíncrono y event-driven systems
+Desarrollador **Fullstack** enfocado en construir sistemas que no solo funcionen, sino que sean **escalables, mantenibles y listos para producción**.
 
----
+Me muevo cómodo entre el backend complejo y el frontend limpio, y estoy evolucionando activamente hacia arquitecturas distribuidas con **AWS, Docker y event-driven systems**.
 
-## 🛠️ Stack tecnológico
-
-### Backend
-- Laravel / Laravel Nova
-- Spring Boot
-- Next.js
-- Node.js
-- FastAPI (Python)
-
-### Frontend
-- Vue.js
-- React
-- Angular
-
-### Base de datos
-- MySQL
-
-### DevOps & Cloud
-- Docker
-- AWS (EC2, S3, RDS, SQS, Lambda)
-- Vercel
-- Railway
+```text
+🧠 Filosofía:   Clean code · Separación de responsabilidades · Escalabilidad primero
+🔭 Trabajando:  POS para restaurantes · Asistencia QR · Arquitectura distribuida de logs
+☁️  Aprendiendo: AWS Serverless · Docker · Arquitectura hexagonal · Event-driven systems
+🤝  Buscando:   Colaborar en backend complejo, SaaS y sistemas distribuidos
+📫  Contacto:   juan.carlos.jchc8@gmail.com
+```
 
 ---
 
-## 📈 Enfoque actual
+## 🛠️ Stack Tecnológico
 
-- Sistemas en tiempo real
-- Arquitecturas distribuidas
-- Escalabilidad y rendimiento
-- Buenas prácticas (clean code, separación de responsabilidades)
+<div align="center">
+
+### ⚙️ Backend
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel Nova](https://img.shields.io/badge/Laravel%20Nova-4B5563?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🖥️ Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+### 🗄️ Base de datos
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
-## 🤝 Colaboración
+## 🚀 Proyectos en Curso
 
-Busco participar en proyectos donde pueda aportar en:
-- Backend complejo
-- Sistemas distribuidos
-- Desarrollo de productos SaaS
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 POS para Restaurantes</h3>
+      <p>Sistema de punto de venta completo con gestión de <strong>ventas, inventario y roles</strong>. Actualización en tiempo real para operaciones simultáneas de cocina y caja.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-E74430?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/🟢_Status-En_desarrollo-22c55e?style=flat-square&labelColor=0f172a"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Asistencia Escolar QR</h3>
+      <p>Sistema de control de asistencia con <strong>códigos QR</strong>. Registro automatizado, reportes por grupo y dashboard administrativo para instituciones educativas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-E74430?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/🟢_Status-En_desarrollo-22c55e?style=flat-square&labelColor=0f172a"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⚙️ Arquitectura Distribuida — Procesamiento de Logs</h3>
+      <p>Sistema event-driven para ingesta, procesamiento y detección de eventos en logs a escala.</p>
+      <pre><code>
+  [ Backend ]           [ Message Queue ]        [ Consumer ]
+  Node.js / Laravel  →  AWS SQS / Queue     →    FastAPI (Python)
+  Produce logs                                    Procesa & detecta eventos
+      </code></pre>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_SQS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/🔵_Status-En_construcción-6366f1?style=flat-square&labelColor=0f172a"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contacto
+## 📊 GitHub Stats
 
-- ✉️ Email: juan.carlos.jchc8@gmail.com
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&stroke=38bdf8&ring=6366f1&fire=34d399&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&sideNums=f0f4ff&currStreakNum=f0f4ff" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## ⚡ Extra
+## 🎯 Enfoque Actual
 
-También tengo experiencia en:
-- 🖥️ Soporte técnico
-- 🌐 Redes
+```mermaid
+mindmap
+  root((Carlos CHC))
+    Backend
+      Laravel · Laravel Nova
+      Spring Boot
+      Node.js · FastAPI
+    Frontend
+      Vue.js
+      React · Angular
+    Cloud
+      AWS EC2 · S3 · RDS
+      SQS · Lambda
+      Docker · Vercel
+    Aprendiendo
+      Arquitectura Hexagonal
+      Event-Driven Systems
+      AWS Serverless
+```
 
 ---
 
+## 🤝 Conectemos
 
-## 🚀 Stack actual
-[![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![Laravel Nova](https://img.shields.io/badge/Laravel%20Nova-3.x-4B5563?style=for-the-badge&logo=laravel&logoColor=white)](https://nova.laravel.com)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
-[![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ec2)
-[![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3)
-[![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/rds)
-[![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/sqs)
-[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-juan.carlos.jchc8@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:juan.carlos.jchc8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Hernández-6366f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://linkedin.com/in/TU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-@TU_USERNAME-34d399?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/TU_USERNAME)
+
+<br/>
+
+**Abierto a colaborar en:** `Backend complejo` · `Sistemas distribuidos` · `Productos SaaS`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
+
+</div>
