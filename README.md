@@ -117,21 +117,6 @@ Me muevo cómodo entre el backend complejo y el frontend limpio, y estoy evoluci
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&stroke=38bdf8&ring=6366f1&fire=34d399&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&sideNums=f0f4ff&currStreakNum=f0f4ff" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🎯 Enfoque Actual
 
 ```mermaid
