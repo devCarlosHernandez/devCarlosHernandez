@@ -147,11 +147,11 @@ mindmap
 
 [![Email](https://img.shields.io/badge/Email-juan.carlos.jchc8@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:juan.carlos.jchc8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Hernández-6366f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://linkedin.com/in/devcarloshernandez)
-[![GitHub](https://img.shields.io/badge/GitHub-@TU_USERNAME-34d399?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/devCarlosHernandez)
+[![GitHub](https://img.shields.io/badge/GitHub-@devCarlosHernandez-34d399?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/devCarlosHernandez)
 
 <br/>
 
-**Abierto a colaborar en:** `Backend complejo` · `Sistemas distribuidos` · `Productos SaaS`
+**Abierto a colaborar en:** `Backend complejo` · `Sistemas distribuidos` · `Productos SaaS` · `Full Stack Developer` · `Frontend complejo` 
 
 <br/>
 
