@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 Hola, soy Carlos
+## 👋 Hola, soy Charls
 
 Desarrollador **Full Stack & Backend Engineer** enfocado en construir sistemas críticos de producción: **procesadores de pago, APIs de alta disponibilidad, arquitecturas orientadas a eventos (event-driven) y aplicaciones multiplataforma**.
 
