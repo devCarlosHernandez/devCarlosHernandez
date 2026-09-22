@@ -26,6 +26,7 @@ Me especializo en diseñar soluciones resilientes de extremo a extremo, combinan
 
 ```text
 🌐 Portafolio:  https://profile-personal-not3.vercel.app/
+🚀 Triply App:   https://triply-app-six.vercel.app/login
 🧠 Filosofía:   Clean code · Resiliencia ante fallos · Seguridad desde el diseño · Escalabilidad real
 🔭 Actualidad:  Full Stack en Métricas (Fintech) · Creador de Triply (PWA & Mobile) · Event-driven logs
 ☁️  Cloud & DevOps: AWS (SQS, Lambda, EC2, RDS, S3) · Docker · Microservicios · Keycloak IAM
@@ -95,6 +96,11 @@ Me especializo en diseñar soluciones resilientes de extremo a extremo, combinan
         <li>80+ Endpoints REST y 250 tests automatizados (114 unitarios · 136 E2E).</li>
         <li>Soporte PWA con manejo responsivo, safe areas y offline caching.</li>
       </ul>
+      <p>
+        <a href="https://triply-app-six.vercel.app/login" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/🚀_Probar_App_Web-triply--app--six.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
       <img src="https://img.shields.io/badge/🟢_Status-Completado_y_Desplegado-22c55e?style=flat-square&labelColor=0f172a"/>
     </td>
     <td width="50%" valign="top">
