@@ -250,8 +250,8 @@ Me especializo en diseñar soluciones resilientes de extremo a extremo, combinan
         <li>Webhook firmado HMAC-SHA256 para DiDi Food, tablero de cocina y arqueo de turnos de caja.</li>
       </ul>
       <p>
-        <a href="https://github.com/devCarlosHernandez/hechoporkeys-pos" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/📦_Ver_Repositorio-hechoporkeys--pos-0d9488?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="https://hechoporkeys-pos-git-dev-devcarloshernandezs-projects.vercel.app/login" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/🛒_Probar_Demo-Ambiente_Dev-0d9488?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
       <img src="https://img.shields.io/badge/🟢_Status-Completado_y_Desplegado-22c55e?style=flat-square&labelColor=0f172a"/>
